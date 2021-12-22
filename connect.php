@@ -9,7 +9,7 @@ if(version_compare(phpversion(), '7', '<=')) {
 
 $MySQL_Host = 'localhost';
 $MySQL_User = 'root';
-$MySQL_Pass = 'm0r9AFtx';
+$MySQL_Pass = 'pbr';
 $MySQL_Name = 'panca_bhakti';
 
 $cp = new mysqli($MySQL_Host, $MySQL_User, $MySQL_Pass, $MySQL_Name);
